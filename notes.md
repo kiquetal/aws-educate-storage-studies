@@ -130,3 +130,15 @@ EFS you hae the option to use the default setting of consumed storage or provisi
 
 -     Amazon Partner Network
       You can use third-party connectors from the Amazon Partner Network for additional Amazon transfer service support. Amazon partners can help you move your data to the cloud. The simplest way to do that is through an embedded connection in your backup software. Using this approach, your backup catalog stays consistent so that you maintain visibility and controls across jobs that span disk, tape, and the cloud.
+
+
+#### Offline data transfers
+
+	AWS SNOWCONE
+
+
+
+	AWS SNOWBALL
+
+
+	AWS SNOWMOBILE
